@@ -1,15 +1,15 @@
 # School Report Card Management System
 Python built Software that generates a Report Card for a student in either pdf or docx or both formats.
 
-Driver Code: main.py
+<b>Driver Code:</b> main.py
 
-Python modules used:<br>
+<b>Python modules used:</b><br>
 tkinter, pandas, mailmerge, docx2pdf
 <br>
-<br>Other modules(python files made for code distribution):<br>
+<br><b>Other modules</b>(python files made for code distribution):<br>
 res.py<br>dashboard.py<br>login.py<br>frontend.py<br>backend.py<br>reportcard.py<br>
 <br>
-Additional File(s)/Database File(s):<br>
+<b>Additional File(s)/Database File(s):</b><br>
 Database - database.db<br>
 ReportCard Template - template.docx<br>
 Image Resources - res/back_arrow.png<br>
@@ -18,8 +18,7 @@ Image Resources - res/back_arrow.png<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;res/reportcard.png<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;res/search.png<br>
 <br>
-Login Credentials:<br>
+Login Credentials and Passwords:<br>
 Username: master<br>
 Password: admin<br>
-<br>
 Password for editing template.docx: masteruser<br>
