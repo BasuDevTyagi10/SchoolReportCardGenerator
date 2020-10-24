@@ -1,4 +1,4 @@
-# School Report Card Generator
+# School Report Card Management System
 Python built Software that generates a Report Card for a student in either pdf or docx or both formats.
 
 Driver Code: main.py
