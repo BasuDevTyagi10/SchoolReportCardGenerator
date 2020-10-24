@@ -17,3 +17,9 @@ Image Resources - res/back_arrow.png<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;res/refresh.png<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;res/reportcard.png<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;res/search.png<br>
+<br>
+Login Credentials:<br>
+Username: master<br>
+Password: admin<br>
+<br>
+Password for editing template.docx: masteruser<br>
