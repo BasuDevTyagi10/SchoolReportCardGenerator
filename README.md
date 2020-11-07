@@ -3,8 +3,7 @@ Python built Software that generates a Report Card for a student in either pdf o
 
 <b>Driver Code:</b> main.py
 
-<b>Python modules used:</b><br>
-tkinter, pandas, mailmerge, docx2pdf<br>
+<b>Python modules used:</b> tkinter, pandas, mailmerge, docx2pdf<br>
 pip install docx-mailmerge<br>
 pip install docx2pdf
 <br>
