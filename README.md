@@ -10,7 +10,7 @@ The project is created using :
 Clone the repo on local machine:
 ```sh
 $ git clone https://github.com/BasuDevTyagi10/SchoolReportCardGenerator.git
-$ cd "virtual-keyboard"
+$ cd "SchoolReportCardGenerator"
 ```
 ### Create a virtual environment (for better control (version control) over the project)
 It is better to use Anaconda Navigator ([Anaconda Documentation - Installation](https://docs.anaconda.com/anaconda/install/)) for handling such (and further mentioned) tasks of creating virtual environments, installing packages, IDEs, Applications, etc.
